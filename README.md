@@ -7,4 +7,4 @@ Aquest repositori ha estat creat per a la classe d'MP07 del día 07/10/2021
 - [x] Crear compte a packagist. (He vinculat aquest compte amb el meu GitHub)
 
 
-Archius a la branca master.
+Arxius a la branca master.
